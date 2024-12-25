@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer">
+      <UniqueIdentifier>{c60aa36d-cb3c-4fb8-b734-7efbf7d3d763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer\Admin">
+      <UniqueIdentifier>{ede5e276-0036-4606-b8b4-70f107587523}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer\Validations">
+      <UniqueIdentifier>{3cd4012c-76c9-4849-8f51-0804ef9eeda1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer\Persons">
+      <UniqueIdentifier>{da70cbfd-3384-4d8e-b039-27dd38b770ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer\AbstractClasses">
+      <UniqueIdentifier>{451828cf-4520-464d-bdae-e51c762a7510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem">
+      <UniqueIdentifier>{e9e3748e-a128-49b2-8636-2e7bfca93b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin">
+      <UniqueIdentifier>{363db59a-e470-4edb-9ca8-dfcf3da084f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\AdminLoginScreen">
+      <UniqueIdentifier>{1953f274-7ffe-462a-93bf-b212afe49b53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\DrawScreen">
+      <UniqueIdentifier>{a8460899-e385-4371-a4c4-96a5fdf2c369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\clsAdminMainMenuScreen">
+      <UniqueIdentifier>{e2a813e2-9219-45bc-9281-28b032ac585b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\WelcomeToMainScreen">
+      <UniqueIdentifier>{856a49f7-5afb-4fbb-8607-1843d9e2577b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens">
+      <UniqueIdentifier>{b7de4100-f97a-41c3-848e-f68fc9837349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorManagementScreen">
+      <UniqueIdentifier>{78749923-34ca-4cdb-98c7-e0499b5e08ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen">
+      <UniqueIdentifier>{9a3bfe07-6f78-40fa-a3a4-b2bc20d77754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorAddScreen">
+      <UniqueIdentifier>{fda59ca2-00a8-452c-a286-67b94ad3b350}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorUpdateScreen">
+      <UniqueIdentifier>{f3ecd93d-09fb-47d5-803d-0390380b35a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorFindScreen">
+      <UniqueIdentifier>{3543a8b9-2cf3-410a-a955-b9a48318b60a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorDeleteScreen">
+      <UniqueIdentifier>{e435fbd3-1db7-480d-a3ac-3fee7d5e4723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorShowAllScreen">
+      <UniqueIdentifier>{558858fc-25d7-4a7b-b0f1-90152a2407bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens">
+      <UniqueIdentifier>{9df6d5d9-3eb9-4445-bf58-98a7e6ee9852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\CourseManagementScreen">
+      <UniqueIdentifier>{7cbae189-85b4-48f1-a85a-a982ba3b98e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\AddNewCourseScreen">
+      <UniqueIdentifier>{5e5713ac-8dbf-42ff-98f6-64af5b377d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\UpdateCourseScreen">
+      <UniqueIdentifier>{1d76986c-eba3-4958-9503-a89b02874dcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\FindCourseScreen">
+      <UniqueIdentifier>{b534cf52-55d2-4d7d-995f-b3db9ce0b5d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\DeleteCourseScreen">
+      <UniqueIdentifier>{dcb4dc49-9d11-4b0e-b381-97ba56bfc0b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\ShowAllCoursesScreen">
+      <UniqueIdentifier>{8ae2c3f1-851e-451a-9f16-bd506dfb4fdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\CourseScreens\AssignCoursesToDoctorScreen">
+      <UniqueIdentifier>{c40223b6-2a18-4c85-ae28-aa879d6182fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens">
+      <UniqueIdentifier>{74bcbfd5-dec6-469c-9869-8a869e04349a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentManagementScreen">
+      <UniqueIdentifier>{57a7b41a-30b9-4602-85cb-15d9beb2dcde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations">
+      <UniqueIdentifier>{a507b670-3ef4-4763-8db1-609f0286ef3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\AddStudentScreen">
+      <UniqueIdentifier>{27c75d0b-5689-48a6-8526-fd63ae01b06e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\UpdateStudentScreen">
+      <UniqueIdentifier>{394a59fe-87ff-4429-b500-1b9880dcfe2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\FindStudentScreen">
+      <UniqueIdentifier>{2f72c37b-fe99-4d03-b88f-9f6e32fe0269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\DeleteStudentScreen">
+      <UniqueIdentifier>{392c39eb-e2ae-4446-abe1-0ecf3d87ac4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\ShowAllStudentsScreen">
+      <UniqueIdentifier>{436cd79a-cbcb-48e8-95be-b65f72726f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor">
+      <UniqueIdentifier>{62818252-16b3-4893-b710-a2bd82c2dea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student">
+      <UniqueIdentifier>{b12aa1d0-458a-4bc1-8a67-9fcd0e67ce14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorLoginScreen">
+      <UniqueIdentifier>{a3b79af2-5d6f-4361-b0b1-c93a67f3c939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BusinessLogicLayer\LoginManagement">
+      <UniqueIdentifier>{f7e50554-419d-4454-bf52-366d0a6e4140}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\StudentLoginScreen">
+      <UniqueIdentifier>{77076764-8fb0-4faf-b3a7-7699b73c9d91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorShowAllPersonalInfo">
+      <UniqueIdentifier>{0554ae78-c075-4257-b641-60abc158c8c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorMainMenuScreen">
+      <UniqueIdentifier>{6dfcc18f-a6dd-4776-98e5-e76649f95e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorData">
+      <UniqueIdentifier>{981daf52-8e09-4dfe-b499-6040359960d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorUpdateData">
+      <UniqueIdentifier>{06dec406-63d6-4b61-b94c-eec2802ca3fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\StudentMainMenuScreen">
+      <UniqueIdentifier>{473535bc-9e9e-493c-9288-e039cfa149bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\StudentData">
+      <UniqueIdentifier>{2460560c-d4d2-462e-a469-4d29cf71cc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\ShowStudentPersonalInfo">
+      <UniqueIdentifier>{5c570adf-4952-4961-82af-83f2c1200dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\StudentUpdatePersonalInfo">
+      <UniqueIdentifier>{a23af1ce-61ea-4a73-97e1-32dbbac32e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\StudentRegisterCoursesScreen">
+      <UniqueIdentifier>{9282af35-2a8f-427d-bbbe-fa78b8dc616b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Doctor\DoctorAssignGradesToStudents">
+      <UniqueIdentifier>{dc9d88fa-d84c-4ac9-9da4-2f6f0e3e7be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PresentationLayerSystem\Student\ShowAllStudentGradesScreen">
+      <UniqueIdentifier>{358a979b-5179-4700-b5c5-34d306cc6e85}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CollegeSystemApplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsDoctorBusinessLogic.h">
+      <Filter>Header Files\BusinessLogicLayer\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\BusinessLogicLayer\Validations</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\BusinessLogicLayer\Persons</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctor.h">
+      <Filter>Header Files\BusinessLogicLayer\Persons</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudent.h">
+      <Filter>Header Files\BusinessLogicLayer\Persons</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLoginManagement.h">
+      <Filter>Header Files\BusinessLogicLayer\LoginManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLogin.h">
+      <Filter>Header Files\BusinessLogicLayer\AbstractClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPersonalInfo.h">
+      <Filter>Header Files\BusinessLogicLayer\AbstractClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdatePersonalInfo.h">
+      <Filter>Header Files\BusinessLogicLayer\AbstractClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAdminLoginScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\AdminLoginScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDrawScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\DrawScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAdminMainMenuScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\clsAdminMainMenuScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctorManagementScreenMenu.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorManagementScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddDoctorScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorAddScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddDoctor.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorAddScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateDoctorScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorUpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateDoctor.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorUpdateScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindDoctorScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorFindScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindDoctor.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorFindScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteDoctorScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorDeleteScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllDoctorsScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\DoctorScreens\DoctorCRUD_Screen\DoctorShowAllScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\WelcomeToMainScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudentManagementScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentManagementScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudentBusinessLogic.h">
+      <Filter>Header Files\BusinessLogicLayer\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddStudentScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\AddStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddStudent.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\AddStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindStudentScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\FindStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindStudent.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\FindStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateStudentScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\UpdateStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateStudent.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\UpdateStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteStudentScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\DeleteStudentScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllStudentsScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\StudentScreens\StudentCRUD_Operations\ShowAllStudentsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCourseBusinessLogic.h">
+      <Filter>Header Files\BusinessLogicLayer\Admin</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCourseManagementScreenMenu.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\CourseManagementScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewCourseScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\AddNewCourseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateCourseScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\UpdateCourseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindCourseScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\FindCourseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteCourseScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\DeleteCourseScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllCoursesScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\ShowAllCoursesScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAssignCoursesToDoctorScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Admin\CourseScreens\AssignCoursesToDoctorScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctorLoginScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorLoginScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudentLoginScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\StudentLoginScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllDoctorPersonalInfoScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorShowAllPersonalInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctorMainMenuScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorMainMenuScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrentDoctorLogin.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorData</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoctorUpdateDataScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorUpdateData</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCurrentStudentLogin.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\StudentData</Filter>
+    </ClInclude>
+    <ClInclude Include="clsStudentMainMenuScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\StudentMainMenuScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowStudentPersonalInfo.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\ShowStudentPersonalInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateStudentPersonalInfoScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\StudentUpdatePersonalInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRegisterNewCoursesScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\StudentRegisterCoursesScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAssignGradesToStudentsScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Doctor\DoctorAssignGradesToStudents</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllStudentGradesScreen.h">
+      <Filter>Header Files\PresentationLayerSystem\Student\ShowAllStudentGradesScreen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

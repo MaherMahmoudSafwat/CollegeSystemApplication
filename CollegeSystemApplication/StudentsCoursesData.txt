@@ -1,0 +1,188 @@
+1014933#//#415#//#Introduction to Programming using C++#//#50
+1014933#//#480#//#Functional Programming in C Sharp C##//#61
+1014933#//#565#//#OOP in C##//#47
+1014933#//#601#//#Advanced C##//#59
+1014933#//#640#//#DataStructures And Algorithms in C##//#55
+1014933#//#696#//#introduction to Ai#//#0
+1014933#//#846#//#Introduction to Web Development#//#0
+1014933#//#950#//#Math-1#//#50
+1014933#//#976#//#Math-2#//#39
+1014933#//#993#//#Math-3#//#49
+1014933#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#41
+1014933#//#51#//#DataBases 1#//#57
+1014933#//#110#//#Advanced DataBases 2#//#23
+1014933#//#185#//#introduction to CyberSecurity#//#57
+1014933#//#244#//#Graduation Project#//#61
+1008340#//#415#//#Introduction to Programming using C++#//#78
+1008340#//#950#//#Math-1#//#100
+1008340#//#993#//#Math-3#//#100
+1008340#//#51#//#DataBases 1#//#100
+1008340#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#640#//#DataStructures And Algorithms in C##//#95
+1010675#//#696#//#introduction to Ai#//#100
+1010675#//#846#//#Introduction to Web Development#//#100
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#640#//#DataStructures And Algorithms in C##//#95
+1010675#//#696#//#introduction to Ai#//#100
+1010675#//#846#//#Introduction to Web Development#//#100
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1010675#//#415#//#Introduction to Programming using C++#//#89
+1010675#//#480#//#Functional Programming in C Sharp C##//#99
+1010675#//#565#//#OOP in C##//#89
+1010675#//#601#//#Advanced C##//#98
+1010675#//#950#//#Math-1#//#95
+1010675#//#976#//#Math-2#//#91
+1010675#//#993#//#Math-3#//#93
+1010675#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns#//#79
+1010675#//#51#//#DataBases 1#//#100
+1010675#//#110#//#Advanced DataBases 2#//#100
+1010675#//#185#//#introduction to CyberSecurity#//#100
+1010675#//#244#//#Graduation Project#//#93
+1008340#//#976#//#Math-2#//#100
+1008340#//#110#//#Advanced DataBases 2#//#100
+1008340#//#480#//#Functional Programming in C Sharp C##//#100
+1008340#//#601#//#Advanced C##//#100
+1008340#//#640#//#DataStructures And Algorithms in C##//#100
+1008340#//#565#//#OOP in C##//#100

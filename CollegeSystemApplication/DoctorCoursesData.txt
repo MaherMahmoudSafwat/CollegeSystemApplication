@@ -1,0 +1,13 @@
+314#//#415#//#Introduction to Programming using C++
+314#//#244#//#Graduation Project
+758#//#480#//#Functional Programming in C Sharp C#
+758#//#565#//#OOP in C#
+758#//#601#//#Advanced C#
+758#//#640#//#DataStructures And Algorithms in C#
+45#//#950#//#Math-1
+45#//#976#//#Math-2
+45#//#993#//#Math-3
+669#//#51#//#DataBases 1
+669#//#110#//#Advanced DataBases 2
+417#//#12#//#Software Engineering Principles , Solid Pticiples and Design Patterns
+34#//#185#//#introduction to CyberSecurity
